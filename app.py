@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 13 16:03:01 2019
-
-@author: Himanshu
-"""
 from flask import Flask, render_template, url_for, request
 import pandas as pd
 import pickle
